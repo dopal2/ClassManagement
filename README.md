@@ -1,18 +1,9 @@
-## Getting Started
+## ClassManagement
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+2019년에 과제용도로 가볍게 제작한 성적관리프로그램입니다
+현재 파일입출력부분은 주석처리했으니 본인환경에 맞춰 수정하거나 재생성해서 사용하시면 됩니다
 
-## Folder Structure
+## 구조
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+MVC패턴을 이해하려고 진행한 프로젝트여서 control, data, instance등으로 구성했고 현재 주석이나 한글로 된 부분은 깨져서 확인이 불가합니다.
+이용시 대략적인 구조만 파악해서 사용하시면 됩니다.
